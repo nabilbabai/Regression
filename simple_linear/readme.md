@@ -1,1 +1,3 @@
-#Simple Linear Regression
+Simple Linear Regression
+
+Data : Experience vs. expected salary.
